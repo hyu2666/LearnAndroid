@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yuhaitong/Desktop/Android/LearnAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/yuhaitong/.android/build-cache/eb1130d52d5f9bb4ac33b75ccea57a7ad3e9dcee/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/yuhaitong/Desktop/Android/LearnAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/yuhaitong/.android/build-cache/eb1130d52d5f9bb4ac33b75ccea57a7ad3e9dcee/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/yuhaitong/Desktop/Android/LearnAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/yuhaitong/.android/build-cache/eb1130d52d5f9bb4ac33b75ccea57a7ad3e9dcee/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/yuhaitong/Desktop/Android/LearnAndroid/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/yuhaitong/.android/build-cache/eb1130d52d5f9bb4ac33b75ccea57a7ad3e9dcee/output/res/layout-v21/notification_action.xml"
+    }
+]

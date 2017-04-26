@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/yuhaitong/.android/build-cache/eb1130d52d5f9bb4ac33b75ccea57a7ad3e9dcee/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/yuhaitong/.android/build-cache/f42782817b707b4bd47ddd1b5137c2b92c1cffab/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/yuhaitong/.android/build-cache/18855d3ebd023cd981713d66afd1dd8e59e9ba27/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/yuhaitong/.android/build-cache/561368f10f7b3419a1127218fc5ab123978f857c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/yuhaitong/.android/build-cache/c47bf250d5777d05a68d39eef65d988071ef24bc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/yuhaitong/.android/build-cache/3e2cfcfb9363ae84196362ec0cbdea12d85abb12/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/yuhaitong/.android/build-cache/e17777c4c045256206d42357e1103c15271f1908/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/yuhaitong/.android/build-cache/441eba7a87f5806b774524d9a30e9878c0d122f5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/yuhaitong/.android/build-cache/430e3c4e3e9841e276068a4c6c202fbb2c6eede5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/yuhaitong/.android/build-cache/1a2ad8cdb6051e52d4e1a0150044722dbe830b8b/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.haitong.activitytest.FirstActivity
+ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:label
+		ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:14:13-50
+	android:name
+		ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:13:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.haitong.activitytest.SecondActivity
+ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:20:19-49
+intent-filter#com.example.haitong.activitytest.ACTION_START+com.example.haitong.activitytest.MY_CATEGORY
+ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:21:13-25:29
+action#com.example.haitong.activitytest.ACTION_START
+ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:22:17-87
+	android:name
+		ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:22:25-85
+catagory
+ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:23:27-73
+category#com.example.haitong.activitytest.MY_CATEGORY
+ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:24:17-88
+	android:name
+		ADDED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml:24:27-86
+uses-sdk
+INJECTED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/yuhaitong/.android/build-cache/eb1130d52d5f9bb4ac33b75ccea57a7ad3e9dcee/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/yuhaitong/.android/build-cache/f42782817b707b4bd47ddd1b5137c2b92c1cffab/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/yuhaitong/.android/build-cache/18855d3ebd023cd981713d66afd1dd8e59e9ba27/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/yuhaitong/.android/build-cache/561368f10f7b3419a1127218fc5ab123978f857c/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/yuhaitong/.android/build-cache/c47bf250d5777d05a68d39eef65d988071ef24bc/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/yuhaitong/.android/build-cache/3e2cfcfb9363ae84196362ec0cbdea12d85abb12/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/yuhaitong/.android/build-cache/e17777c4c045256206d42357e1103c15271f1908/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/yuhaitong/.android/build-cache/441eba7a87f5806b774524d9a30e9878c0d122f5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/yuhaitong/.android/build-cache/430e3c4e3e9841e276068a4c6c202fbb2c6eede5/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/yuhaitong/.android/build-cache/1a2ad8cdb6051e52d4e1a0150044722dbe830b8b/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/yuhaitong/.android/build-cache/eb1130d52d5f9bb4ac33b75ccea57a7ad3e9dcee/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/yuhaitong/.android/build-cache/eb1130d52d5f9bb4ac33b75ccea57a7ad3e9dcee/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/yuhaitong/.android/build-cache/f42782817b707b4bd47ddd1b5137c2b92c1cffab/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/yuhaitong/.android/build-cache/18855d3ebd023cd981713d66afd1dd8e59e9ba27/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/yuhaitong/.android/build-cache/561368f10f7b3419a1127218fc5ab123978f857c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/yuhaitong/.android/build-cache/c47bf250d5777d05a68d39eef65d988071ef24bc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/yuhaitong/.android/build-cache/3e2cfcfb9363ae84196362ec0cbdea12d85abb12/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/yuhaitong/.android/build-cache/e17777c4c045256206d42357e1103c15271f1908/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/yuhaitong/.android/build-cache/441eba7a87f5806b774524d9a30e9878c0d122f5/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/yuhaitong/.android/build-cache/430e3c4e3e9841e276068a4c6c202fbb2c6eede5/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/yuhaitong/.android/build-cache/eb1130d52d5f9bb4ac33b75ccea57a7ad3e9dcee/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/yuhaitong/.android/build-cache/eb1130d52d5f9bb4ac33b75ccea57a7ad3e9dcee/output/AndroidManifest.xml:26:9-47

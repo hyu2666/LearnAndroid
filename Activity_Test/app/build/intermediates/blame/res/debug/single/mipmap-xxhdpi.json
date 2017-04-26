@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yuhaitong/Desktop/Android/LearnAndroid/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yuhaitong/Desktop/Android/LearnAndroid/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/yuhaitong/Desktop/Android/LearnAndroid/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

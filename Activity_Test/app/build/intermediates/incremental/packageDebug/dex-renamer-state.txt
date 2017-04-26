@@ -1,0 +1,7 @@
+#Sat Apr 22 11:33:54 EDT 2017
+base.0=/Users/yuhaitong/Desktop/Android/LearnAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9042e76f93f62d0ee7a20e9dc61d965e9abf6d83
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/yuhaitong/Desktop/Android/LearnAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dd7eb14fe9ad153e6f19ef22a65ff5f065cc0a86/classes.dex
+base.1=/Users/yuhaitong/Desktop/Android/LearnAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dd7eb14fe9ad153e6f19ef22a65ff5f065cc0a86
+file.0=/Users/yuhaitong/Desktop/Android/LearnAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9042e76f93f62d0ee7a20e9dc61d965e9abf6d83/classes.dex
